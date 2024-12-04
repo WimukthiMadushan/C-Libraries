@@ -1,0 +1,6 @@
+# ninja log v6
+3	310	7549933256646425	build.ninja	36531cd5ca838ab1
+13	350	7549932721933174	CMakeFiles/Base_Converter.dir/library.cpp.obj	8b5204d4eb09374e
+351	414	7549932725309633	libBase_Converter.a	189371b161911bae
+29	362	7549933292545429	CMakeFiles/Base_Converter_Main.dir/library.cpp.obj	304197e0398469ba
+363	468	7549933295880573	Base_Converter_Main.exe	bb147618b3583532

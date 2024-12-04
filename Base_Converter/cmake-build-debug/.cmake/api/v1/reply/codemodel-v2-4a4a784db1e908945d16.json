@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Base_Converter",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Base_Converter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Base_Converter-Debug-5d77598d0d4fac9b23f8.json",
+					"name" : "Base_Converter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Base_Converter_Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Base_Converter_Main-Debug-13df5e598485dd7958e9.json",
+					"name" : "Base_Converter_Main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/wimuk/CLionProjects/Cpp_Libraries/Base_Converter/cmake-build-debug",
+		"source" : "C:/Users/wimuk/CLionProjects/Cpp_Libraries/Base_Converter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

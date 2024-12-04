@@ -1,0 +1,4 @@
+C:/Users/wimuk/CLionProjects/Cpp_Libraries/Base_Converter/cmake-build-debug/CMakeFiles/Base_Converter.dir
+C:/Users/wimuk/CLionProjects/Cpp_Libraries/Base_Converter/cmake-build-debug/CMakeFiles/Base_Converter_Main.dir
+C:/Users/wimuk/CLionProjects/Cpp_Libraries/Base_Converter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wimuk/CLionProjects/Cpp_Libraries/Base_Converter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
